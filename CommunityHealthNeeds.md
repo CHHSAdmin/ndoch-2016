@@ -1,11 +1,11 @@
-##Community Health Needs and Priorities Solution
+# Community Health Needs and Priorities Solution
 
-**Calling all innovators to harness data and technology to develop a
+Calling all innovators to harness data and technology to develop a
 concept or a tool that would allow communities to build an evolving
 list/dialogue with their government about health and wellbeing needs and
 priorities**
 
-**THE CHALLENGE:**
+## The Challenge
 
 Imagine a place where government can leverage data and information from
 communities and external partners while enabling discussions,
@@ -13,7 +13,7 @@ encouraging collaborations, and sharing skills. This space/solution
 would allow for communities to share needs, ideas, provide insight, and
 leverage lessons learned around specific areas of focus.
 
-**What do we want to achieve?**
+## What do we want to achieve?
 
 In order for us to collectively improve the health and wellbeing of all
 Californians, we must set bigger goals, use bolder strategies and be
@@ -50,7 +50,7 @@ program and policy outcomes.**
 
 **As a part of this challenge you might provide input on specific
 community need (as a use case) and specific data that might help address
-that need. **
+that need.**
 
 > The State has a wealth of data, and the [CHHS Open Data
 > Program](https://chhs.data.ca.gov) is working to make these data
@@ -62,10 +62,9 @@ that need. **
 > What is the compelling community need or use case for prioritizing the
 > publishing of these data? How can data on the portal be improved?
 
-**RESOURCES & INSPIRATION:**
+## Resources and Inspiration
 
-**LET’S GET HEALTHY CALIFORNIA**
-[LetsGetHealthy.Ca.Gov](https://letsgethealthy.ca.gov/)
+[**Let's Get Healthy California**](https://letsgethealthy.ca.gov/)
 
 > In 2012 California leaders in health and healthcare from the public
 > and private sectors came together to develop a ten year plan to make
@@ -91,10 +90,9 @@ that need. **
 > sharing insights and designing solutions that will transform the
 > health of our state.
 
-**California Health and Human Services** [**OPEN DATA
-PORTAL**](file:///C:\Users\TSrzenti\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\6WR9ZJC3\CHHS%20CA%20state%20Open%20Data%20Portal)
+[**CHHS Open Data Portal**](https://chhs.data.ca.gov/)
 
-> Since its launch in 2015, 12 CHHS departments have published close to
+> Since its launch in 2014, 12 CHHS departments have published close to
 > 200 dataset on the [CHHS Open Data Portal](https://chhs.data.ca.gov/).
 > Open Data has provided the common ground for thoughtful engagement
 > with external resource partners to support our goals and objectives.
@@ -104,8 +102,7 @@ PORTAL**](file:///C:\Users\TSrzenti\AppData\Local\Microsoft\Windows\Temporary%20
 > create more efficient programs that provide better results for the
 > people we serve.
 
-[**Demand-Driven Open
-Data **](http://www.hhs.gov/idealab/projects-item/demand-driven-open-data/)**(DDOD)**
+[**Demand-Driven Open Data (DDOD)**](http://www.hhs.gov/idealab/projects-item/demand-driven-open-data/)
 
 > While a seamless resource connecting data, people, and use cases may
 > be a vision of the near future, the concept is already being explored
@@ -118,7 +115,7 @@ Data **](http://www.hhs.gov/idealab/projects-item/demand-driven-open-data/)**(D
 > hopefully allow the government to prioritize the data it makes
 > available to users based on their expressed needs.
 
-[**San Francisco’s Open DataSF**](http://datasf.org/)**  **
+[**San Francisco’s Open DataSF**](http://datasf.org/)
 
 > Another example here in California is [San Francisco’s
 > DataSF](http://datasf.org/) program, where citizens can access the
@@ -129,21 +126,18 @@ Data **](http://www.hhs.gov/idealab/projects-item/demand-driven-open-data/)**(D
 
 [**City of Philadelphia Open Data**](http://www.phila.gov/data/)
 
-The City of Philadelphia has created several pathways to engage
+>The City of Philadelphia has created several pathways to engage
 constituents.
-
-> [Discussion
-> Board](http://cityofphiladelphia.github.io/slash-data/discuss/) allows
+>
+> - [Discussion Board](http://cityofphiladelphia.github.io/slash-data/discuss/) allows
 > anyone to post a question or comment on the Open Data Philly
 > discussion group.
 >
-> [Data
-> Inventory](http://cityofphiladelphia.github.io/slash-data/inventory/)
+> - [Data Inventory](http://cityofphiladelphia.github.io/slash-data/inventory/)
 > is a detailed list of every dataset that exists within city government
 > with imbedded commenting featurethat helps gauge public demand and
 > inform prioritization of data releases.
 >
-> [Data Inventory Publication
-> Schedule](https://trello.com/b/iUUy84lK/deprecated-city-of-philadelphia-open-data-pipeline)
+> - [Data Inventory Publication Schedule](https://trello.com/b/iUUy84lK/deprecated-city-of-philadelphia-open-data-pipeline)
 > provides visibility into the city of Philadelphia’s data release
 > schedule and allows for public to comment and provide feedback.
